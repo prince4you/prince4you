@@ -6,6 +6,12 @@ Hello coders Im sunil<br>Noob coder from Nepal🙄❤😁😘🤔🙂😴😅�
 
 ## 🌐 Socials:
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sunil dong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sunil dong" height="30" width="40" /></a>
+<a href="https://instagram.com/annon4you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annon4you" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/noob cyber tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noob cyber tech" height="30" width="40" /></a>
+</p>
 
 
 # 💻 Tech Stack:
