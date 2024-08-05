@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hello coders Im sunil<br>Noob coder from Nepal🙄❤😁😘🤔🙂😴😅🤔<br><br>🔭 I’m currently working on: New project,repo<br>🌱 I’m currently learning: Ethical Hacking,programming,Frameworks,etc😅.<br>💬 Ask me about: .....🤔🤔<br>📫 Gmail: techchipsunil@gmail.com<br>⚡ Fun fact: 🤔😅 chal bsdk
 
-## 🌐 Socials:
+## 🌐 social_media:
 * [YouTube](https://youtube.com/@noobcybertech2024)
 * [Telegram](https://t.me/Annon4you)
 *  [WhatsApp_Groups](https://chat.whatsapp.com/DQHA1MZ46RYGlyIIOPZR2T)
