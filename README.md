@@ -4,6 +4,10 @@
 Hello coders Im sunil<br>Noob coder from Nepal🙄❤😁😘🤔🙂😴😅🤔<br><br>🔭 I’m currently working on: New project,repo<br>🌱 I’m currently learning: Ethical Hacking,programming,Frameworks,etc😅.<br>💬 Ask me about: .....🤔🤔<br>📫 Gmail: techchipsunil@gmail.com<br>⚡ Fun fact: 🤔😅 chal bsdk
 
 ## 🌐 Socials:
+* [YouTube](https://www.youtube.com/@alienkrishnorg)
+* [Telegram](https://t.me/+_74ddKXhXJE1ZjZl)
+* [Odysee](https://odysee.com/@alienkrishn)
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sunil dong) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Annon4you) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Annon4you) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Noob cyber tech) 
 
 # 💻 Tech Stack:
