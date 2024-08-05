@@ -6,7 +6,7 @@ Hello coders Im sunil<br>Noob coder from Nepal🙄❤😁😘🤔🙂😴😅�
 ## 🌐 Socials:
 * [YouTube](https://youtube.com/@noobcybertech2024)
 * [Telegram](https://t.me/Annon4you)
-*  [Whats App Groups](Follow this link to join my WhatsApp group: https://chat.whatsapp.com/DQHA1MZ46RYGlyIIOPZR2T)
+*  [Whats App Groups](https://chat.whatsapp.com/DQHA1MZ46RYGlyIIOPZR2T)
 
 
 
