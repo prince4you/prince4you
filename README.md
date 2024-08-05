@@ -4,9 +4,10 @@
 Hello coders Im sunil<br>Noob coder from Nepal🙄❤😁😘🤔🙂😴😅🤔<br><br>🔭 I’m currently working on: New project,repo<br>🌱 I’m currently learning: Ethical Hacking,programming,Frameworks,etc😅.<br>💬 Ask me about: .....🤔🤔<br>📫 Gmail: techchipsunil@gmail.com<br>⚡ Fun fact: 🤔😅 chal bsdk
 
 ## 🌐 Socials:
-[YouTube](https://youtube.com/@noobcybertech2024)
-[Telegram](https://t.me/Annon4you)
+
 # 💻 Tech Stack:
+* [YouTube](https://youtube.com/@noobcybertech2024)
+* [Telegram](https://t.me/Annon4you)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prince4you&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
